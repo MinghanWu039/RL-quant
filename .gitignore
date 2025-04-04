@@ -143,5 +143,10 @@ test_ppo
 cache
 price_array.npy
 
+examples/results
+examples/tensorboard_log
+examples/trained_models
+
+
 # vscode
 /.vscode
